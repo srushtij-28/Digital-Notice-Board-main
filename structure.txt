@@ -1,0 +1,20 @@
+Features:
+Add, view, update, and delete notices.
+Set notice categories and priority levels.
+Set notice expiry dates.
+Search notices by title or content.
+Filter notices by category.
+Display active and expired notices separately.
+Store all data in a JSON file.
+
+Folder structure:
+
+Digital_Notice_Board/
+│
+├── main.py
+├── notice_manager.py
+├── storage.py
+├── notices.json
+├── requirements.txt
+├── .gitignore
+└── README.md
